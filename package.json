@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Start creating Webpack app",
   "main": "index.html",
+  "repository": "https://github.com/luisfmsouza/startup-webpack",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-connect": "^2.2.0"
+    "gulp-connect": "^2.2.0",
+    "webpack": "^1.12.4",
+    "webpack-dev-server": "^1.12.1"
   }
 }
