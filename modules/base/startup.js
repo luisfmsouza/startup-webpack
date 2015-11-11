@@ -2,12 +2,12 @@
 
 console.time('Load');
 
-// import $ from 'jquery';
-// import _ from 'underscore';
-// import Backbone from 'backbone';
-$ = jQuery = require('jquery');
-_ = require('underscore');
-Backbone = require('backbone');
+import $ from 'jquery';
+import _ from 'underscore';
+import Backbone from 'backbone';
+// $ = jQuery = require('jquery');
+// _ = require('underscore');
+// Backbone = require('backbone');
 
 // import 'bootstrap/css/bootstrap.css!';
 require("bootstrap-webpack");
