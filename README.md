@@ -7,4 +7,4 @@ Start creating [Webpack](http://webpack.github.io/) app.
 
 Run: ` webpack-dev-server --progress --colors `
 
-Access: http://localhost:8080/
+Access: [http://localhost:8080/](http://localhost:8080/)
