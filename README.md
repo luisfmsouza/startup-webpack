@@ -5,5 +5,6 @@ Start creating [Webpack](http://webpack.github.io/) app.
 
 ###Development mode
 
-``` webpack-dev-server --progress --colors ```
-Server: http://localhost:8080/
+Run: ` webpack-dev-server --progress --colors `
+
+Access: http://localhost:8080/
